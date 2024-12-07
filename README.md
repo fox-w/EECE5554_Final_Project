@@ -11,3 +11,13 @@ Should be able to clone repo and run catkin_make inside of EECE5554_Final_Projec
 
 Once you clone EECE5554_Final_Project:
 - inside it, create a folder /data and put the bag file inside of it
+
+FOR REFERENCE - These are the topics available in the bag file MH_01_easy.bag:
+
+/cam0/image_raw
+/cam1/image_raw
+/clock
+/imu0
+/leica/position
+/rosout
+/rosout_agg
