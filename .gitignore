@@ -1,0 +1,23 @@
+# Ignore build files
+build/
+devel/
+install/
+log/
+.catkin_tools/
+.rosinstall
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+
+__pycache__/
+*.pyc
+
+*.bak
+*~
+
+*.bag
+data/
+
+~/.ros/log/
